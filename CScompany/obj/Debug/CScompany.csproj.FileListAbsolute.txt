@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\CScompany\CScompany\bin\Debug\CScompany.exe.config
+C:\Users\HP\source\repos\CScompany\CScompany\bin\Debug\CScompany.exe
+C:\Users\HP\source\repos\CScompany\CScompany\bin\Debug\CScompany.pdb
+C:\Users\HP\source\repos\CScompany\CScompany\obj\Debug\CScompany.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CScompany\CScompany\obj\Debug\CScompany.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\CScompany\CScompany\obj\Debug\CScompany.Form1.resources
+C:\Users\HP\source\repos\CScompany\CScompany\obj\Debug\CScompany.ItemType1.resources
+C:\Users\HP\source\repos\CScompany\CScompany\obj\Debug\CScompany.Properties.Resources.resources
+C:\Users\HP\source\repos\CScompany\CScompany\obj\Debug\CScompany.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\CScompany\CScompany\obj\Debug\CScompany.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CScompany\CScompany\obj\Debug\CScompany.exe
+C:\Users\HP\source\repos\CScompany\CScompany\obj\Debug\CScompany.pdb
+C:\Users\HP\source\repos\CScompany\CScompany\obj\Debug\CScompany.Item.resources
+C:\Users\HP\source\repos\CScompany\CScompany\obj\Debug\CScompany.Menu.resources
+C:\Users\HP\source\repos\CScompany\CScompany\obj\Debug\CScompany.customer.resources
+C:\Users\HP\source\repos\CScompany\CScompany\obj\Debug\CScompany.Department.resources
+C:\Users\HP\source\repos\CScompany\CScompany\obj\Debug\CScompany.Employee.resources
